@@ -2,7 +2,7 @@
 import { Category, Product } from '../types/products';
 
 // Número do WhatsApp para pedidos
-export const STORE_WHATSAPP = '5561994668541';
+export const STORE_WHATSAPP = '5561985941557';
 
 // Requisitos mínimos de pedido
 export const MIN_PACKAGES = 5;
@@ -226,7 +226,8 @@ export const PRODUCTS: Product[] = [
     "description": "POTE DE 01KG",
     "packageInfo": "Pote 1kg",
     "weight": 1.0,
-    "isPackage": true
+    "isPackage": true,
+    "inStock": false
   },
   
   {

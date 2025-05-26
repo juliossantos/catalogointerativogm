@@ -21,7 +21,7 @@ export const KITS: Kit[] = [
   {
     id: 'kit2',
     name: 'Kit Festinha 30 Pessoas',
-    description: 'Serve até 30 convidados com variedade e praticidade! Salgadinhos tradicionais + um docinho delicioso. Agora com nosso creme de alho OMG de ervas finas para acompanhar com muito sabor!',
+    description: 'Serve até 30 convidados com variedade e praticidade! Salgadinhos tradicionais + um churros delicioso.', //Agora com nosso creme de alho OMG de ervas finas para acompanhar com muito sabor!
     image: '/kits/kit-festinha.png',
     items: [
       { productId: '20014', quantity: 1 }, // SALG FESTA COXINHA PCT 50 UNID (Coxinha tradicional)
@@ -30,13 +30,13 @@ export const KITS: Kit[] = [
       { productId: '20027', quantity: 1 }, // SALG FESTA ENR DE SALSICHA PCT 50 UNID
       { productId: '20007', quantity: 1 }, // KIBE C/ REQUEIJÃO PCT 50 UNID
       { productId: '20013', quantity: 1 }, // CHURROS DOCE DE LEITE PCT 50 UNID
-      { productId: '3200', quantity: 1 }, // ALHO EM CREME C/ ERVAS FINAS OMG POTE 200G
+      //{ productId: '3200', quantity: 1 }, // ALHO EM CREME C/ ERVAS FINAS OMG POTE 200G
     ]
   },
   {
     id: 'kit3',
     name: 'Kit Festinha 50 Pessoas',
-    description: 'Um kit completo para quem vai receber até 50 convidados! Salgadinhos variados + dois potes do creme de alho OMG, um com ervas finas e outro com pimenta calabresa, pra dar aquele toque especial no seu evento.',
+    description: 'Um kit completo para quem vai receber até 50 convidados! Salgadinhos variados, pra dar aquele toque especial no seu evento.', //+ dois potes do creme de alho OMG, um com ervas finas e outro com pimenta calabresa, pra dar aquele toque especial no seu evento.
     image: '/kits/kit-festa50.png',
     items: [
       { productId: '20014', quantity: 1 }, // SALG FESTA COXINHA PCT 50 UNID (Coxinha tradicional)
@@ -49,14 +49,14 @@ export const KITS: Kit[] = [
       { productId: '20004', quantity: 1 }, // SALG FESTA NAPOLITANO PCT 50 UNID
       { productId: '20038', quantity: 1 }, // CHURROS DOCE DE CHOCOLATE PCT 50 UNID
       { productId: '20013', quantity: 1 }, // CHURROS DOCE DE LEITE PCT 50 UNID
-      { productId: '3200', quantity: 1 }, // ALHO EM CREME C/ ERVAS FINAS OMG POTE 200G
-      { productId: '3300', quantity: 1 }, // ALHO EM CREME C/ PIMENTA CALABRESA OMG POTE 200G
+     // { productId: '3200', quantity: 1 }, // ALHO EM CREME C/ ERVAS FINAS OMG POTE 200G
+     // { productId: '3300', quantity: 1 }, // ALHO EM CREME C/ PIMENTA CALABRESA OMG POTE 200G
     ]
   },
   {
     id: 'kit4',
     name: 'Kit Degustação',
-    description: 'O combo ideal para quem quer experimentar variedade com muito sabor! Uma combinação dos nossos melhores pães, biscoitos e o famoso creme de alho OMG de ervas finas. Ideal para primeira compra ou clientes curiosos!',
+    description: 'O combo ideal para quem quer experimentar variedade com muito sabor! Uma combinação dos nossos melhores pães e biscoitos.', // e o famoso creme de alho OMG de ervas finas. Ideal para primeira compra ou clientes curiosos!'
     image: '/kits/kit-degustacao.png',
     items: [
       { productId: '50407', quantity: 2 }, // PAO DE QUEIJO GM 25G PCT 800G (equivalent to 2x 400g packs)
@@ -64,7 +64,7 @@ export const KITS: Kit[] = [
       { productId: '50402', quantity: 1 }, // BISCOITO DE QUEIJO SF 40G PCT 800G
       { productId: '50404', quantity: 1 }, // QUEBRADOR DE QUEIJO SF 20G PCT 800G
       { productId: '50709', quantity: 1 }, // PALITO DE QUEIJO GOURMET PCT 400G
-      { productId: '3200', quantity: 1 }, // ALHO EM CREME C/ ERVAS FINAS OMG POTE 200G
+      //{ productId: '3200', quantity: 1 }, // ALHO EM CREME C/ ERVAS FINAS OMG POTE 200G
     ]
   }
 ];
