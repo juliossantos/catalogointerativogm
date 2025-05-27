@@ -1355,7 +1355,7 @@ export const PRODUCTS: Product[] = [
       {
     "id": "10014",
     "name": "BISC PALITO PREMIUM 40G 1KG",
-    "price": 20.90,
+    "price": 22.99,
     "category": "Biscoito de Queijo",
     "images": ["/products/10014.jpg"],
     "description": "Biscoito de queijo premium (40g). Pacote com aproximadamente 25 unidades.",
