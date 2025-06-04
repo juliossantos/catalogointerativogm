@@ -255,7 +255,7 @@ export const PRODUCTS: Product[] = [
   {
     "id": "50705",
     "name": "PAO DE QUEIJO SEM LACTOSE PCT 400G",
-    "price": 8.30,
+    "price": 12.10,
     "category": "Pão de Queijo",
     "images": ["/products/50705.jpg"],
     "description": "Pão de Queijo Sem Lactose GM, pacote de 400g. Aproximadamente 16 unidades. (25g).",
