@@ -1343,7 +1343,7 @@ export const PRODUCTS: Product[] = [
       {
     "id": "50007",
     "name": "CHIPA PCT 1KG",
-    "price": 20.90,
+    "price": 19.00,
     "category": "Biscoito de Queijo",
     "images": ["/products/50007.jpg"],
     "description": "Chipa (40g). Pacote com aproximadamente 25 unidades.",
