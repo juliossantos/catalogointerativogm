@@ -415,6 +415,8 @@ const Cart: React.FC = () => {
           <span>Próximo</span>
           <ArrowRight className="ml-2 h-4 w-4" />
         </Button>
+
+        <div className='m-20'></div>
         
         {cartItems.length > 0 && !meetsMinimumOrder && (
           <p className="text-xs text-center text-amber-600 mt-2">
