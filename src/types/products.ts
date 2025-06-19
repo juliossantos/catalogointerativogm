@@ -7,6 +7,7 @@ export type Category =
   | 'Biscoito de Queijo'
   | 'Salgados Grandes'
   | 'Kits e Combos'
+  | 'Alho em creme'
   | 'Outros';
   
 

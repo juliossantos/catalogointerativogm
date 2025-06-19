@@ -16,6 +16,7 @@ export const CATEGORIES: Category[] = [
   'Pão de Queijo',
   'Biscoito de Queijo',
   'Salgados Grandes',
+  'Alho em creme',
   'Outros',
   'Kits e Combos'
 ];
@@ -28,6 +29,7 @@ export const ORDERED_CATEGORIES: Category[] = [
   'Pães e Massas Doces',
   'Biscoito de Queijo',
   'Salgados Grandes',
+  'Alho em creme',
   'Outros',
   'Kits e Combos'
 ];
@@ -1434,5 +1436,23 @@ export const PRODUCTS: Product[] = [
     "weight": 1.0,
     "isPackage": true
   },
+    {
+    "id": "",
+    "name": "Alho em creme tradicional OMG pote 200g",
+    "price": 12.00,
+    "category": "Alho em creme",
+    "images": [`https://lh6.googleusercontent.com/proxy/cP5TQ4Hwy0wNUgsmbaUESquad7wj43zxuF-F7Oea01MX6JGf6FaFh2pC-6jmqamIuZsbkwxyLhyyRaR_5hwlkTYZT6peZE4fUNbDzurWnC_-V-0BaVbcPg`],
+    "description": "Pão de queijo recheado com calabresa e azeitona. Pacote com aproximadamente 30 unidades.",
+    "packageInfo": "Pacote 1kg",
+    "weight": 1.0,
+    "isPackage": true,
+    "isLaunch": true,
+  },
+
+
+
+
+
+
     // Outras categorias - mantendo os produtos existentes
 ];

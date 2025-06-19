@@ -40,6 +40,7 @@ const SearchBar: React.FC<SearchBarProps> = ({
     'Pães e Massas Doces',
     'Biscoito de Queijo',
     'Salgados Grandes',
+    'Alho em creme',
     'Outros'
   ];
 
