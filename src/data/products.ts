@@ -1442,16 +1442,12 @@ export const PRODUCTS: Product[] = [
     "price": 12.00,
     "category": "Alho em creme",
     "images": [`https://lh6.googleusercontent.com/proxy/cP5TQ4Hwy0wNUgsmbaUESquad7wj43zxuF-F7Oea01MX6JGf6FaFh2pC-6jmqamIuZsbkwxyLhyyRaR_5hwlkTYZT6peZE4fUNbDzurWnC_-V-0BaVbcPg`],
-    "description": "O oh my garlic é um creme de alho que vai bem com o que a imaginação mandar.",
+    "description": "Revolucione sua cozinha com o 1º alho em creme do mundo. Pronto para temperar, servir e combinar com tudo. Zero glúten, lactose, corante e colesterol. Sem gordura hidrogenada.",
     "packageInfo": "Pacote 200g",
     "weight": 0.200,
     "isPackage": true,
     "isLaunch": true,
   },
-
-
-
-
 
 
     // Outras categorias - mantendo os produtos existentes
