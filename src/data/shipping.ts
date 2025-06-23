@@ -27,4 +27,4 @@ export const SHIPPING_RATES: ShippingRate[] = [
   { city: 'Vicente Pires', cost: 10.0 },
 ];
 
-export const FREE_SHIPPING_THRESHOLD = 100.00;
+export const FREE_SHIPPING_THRESHOLD = 150.00;
