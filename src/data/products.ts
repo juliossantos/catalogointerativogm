@@ -788,7 +788,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/51.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca trançada 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -801,7 +801,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/61.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca caracol 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -814,7 +814,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/71.jpg"
     ],
-    "description": "Pão de batata doce 35g. Pacote com aproximadamente 29 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca Hungara 35g. Pacote com aproximadamente 29 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -827,7 +827,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/41.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão amanteigado 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -840,7 +840,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/80.jpg"
     ],
-    "description": "Pão de batata doce 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão mandi 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -853,7 +853,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/81.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão de leite 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -866,7 +866,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/82.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca caracol 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -879,7 +879,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/83.jpg"
     ],
-    "description": "Pão de batata doce 73g. Pacote com aproximadamente 48 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão de hot-dog 73g. Pacote com aproximadamente 48 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -892,7 +892,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/84.jpg"
     ],
-    "description": "Pão de batata doce 65g. Pacote com aproximadamente 54 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão de hamburger 65g. Pacote com aproximadamente 54 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -905,7 +905,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/85.jpg"
     ],
-    "description": "Pão de batata doce 35g. Pacote com aproximadamente 100 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca hungara 35g. Pacote com aproximadamente 100 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -918,7 +918,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/86.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão amanteigado 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -931,7 +931,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/87.jpg"
     ],
-    "description": "Pão de batata doce 75g. Pacote com aproximadamente 47 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão palito 75g. Pacote com aproximadamente 47 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -944,7 +944,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/90.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão de milho 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -970,7 +970,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/92.jpg"
     ],
-    "description": "Pão de batata doce 70g. Pacote com aproximadamente 14 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão mandi 70g. Pacote com aproximadamente 14 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -983,7 +983,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/93.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão de leite 50g. Pacote com aproximadamente 20 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -996,7 +996,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/96.jpg"
     ],
-    "description": "Pão de batata doce 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca hungara 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -1022,7 +1022,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/98.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca trançada 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -1035,7 +1035,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/99.jpg"
     ],
-    "description": "Pão de batata doce 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão de milho 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
