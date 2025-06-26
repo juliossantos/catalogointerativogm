@@ -814,7 +814,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/71.jpg"
     ],
-    "description": "Rosca Hungara 35g. Pacote com aproximadamente 29 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca húngara 35g. Pacote com aproximadamente 29 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 1.0,
     "isPackage": true
@@ -886,13 +886,13 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "84",
-    "name": "PAO HAMBURGER 65G PCT 3,5K",
+    "name": "PAO HAMBURGUER 65G PCT 3,5K",
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
       "/products/84.jpg"
     ],
-    "description": "Pão de hamburger 65g. Pacote com aproximadamente 54 unidades. Tempo de fermentação 6 horas",
+    "description": "Pão de hambúrguer 65g. Pacote com aproximadamente 54 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -905,7 +905,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/85.jpg"
     ],
-    "description": "Rosca hungara 35g. Pacote com aproximadamente 100 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca húngara 35g. Pacote com aproximadamente 100 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
@@ -996,7 +996,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/96.jpg"
     ],
-    "description": "Rosca hungara 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
+    "description": "Rosca húngara 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
     "isPackage": true
