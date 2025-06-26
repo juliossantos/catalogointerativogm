@@ -760,7 +760,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/507468.jpg"
     ],
-    "description": "Pão frances 12 horas 70g congelado. Pacote com aproximadamente 14 unidades.",
+    "description": "Pão francês 12 horas 70g congelado. Pacote com aproximadamente 14 unidades.",
     "packageInfo": "Pacote",
     "weight": 1,
     "isPackage": true
@@ -773,7 +773,7 @@ export const PRODUCTS: Product[] = [
     "images": [
       "/products/40.jpg"
     ],
-    "description": "Pão frances 06 horas 70g congelado. Pacote com aproximadamente 14 unidades.",
+    "description": "Pão francês 06 horas 70g congelado. Pacote com aproximadamente 14 unidades.",
     "packageInfo": "Pacote",
     "weight": 1,
     "isPackage": true
