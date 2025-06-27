@@ -1029,7 +1029,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "99",
-    "name": "PAO DE MILHO 50GR PCT 3,5KG,
+    "name": "PAO DE MILHO 50GR PCT 3,5KG",
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
