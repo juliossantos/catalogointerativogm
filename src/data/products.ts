@@ -795,7 +795,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "61",
-    "name": "ROSCA CARACOL 50GR PCT 1K",
+    "name": "ROSCA CARACOL 50GR PCT 1KG",
     "price": 10.5,
     "category": "Pães e Massas Doces",
     "images": [
@@ -808,7 +808,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "71",
-    "name": "ROSCA TIPO HUNGARA 35GR PCT 1K",
+    "name": "ROSCA TIPO HUNGARA 35GR PCT 1KG",
     "price": 13.7,
     "category": "Pães e Massas Doces",
     "images": [
@@ -821,7 +821,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "41",
-    "name": "PAO AMANTEIGADO 50GR PCT 1K",
+    "name": "PAO AMANTEIGADO 50GR PCT 1KG",
     "price": 10.5,
     "category": "Pães e Massas Doces",
     "images": [
@@ -834,7 +834,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "80",
-    "name": "PAO MANDI 70G PCT 3,5K",
+    "name": "PAO MANDI 70G PCT 3,5KG",
     "price": 39.55,
     "category": "Pães e Massas Doces",
     "images": [
@@ -843,11 +843,11 @@ export const PRODUCTS: Product[] = [
     "description": "Pão mandi 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "81",
-    "name": "PAO DE LEITE 50G PCT 3,5K",
+    "name": "PAO DE LEITE 50G PCT 3,5KG",
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
@@ -856,11 +856,11 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de leite 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "82",
-    "name": "ROSCA CARACOL 50G PCT 3,5K",
+    "name": "ROSCA CARACOL 50G PCT 3,5KG",
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
@@ -869,11 +869,11 @@ export const PRODUCTS: Product[] = [
     "description": "Rosca caracol 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "83",
-    "name": "PAO HOT DOG 73G PCT 3,5K",
+    "name": "PAO HOT DOG 73G PCT 3,5KG",
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
@@ -882,11 +882,11 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de hot-dog 73g. Pacote com aproximadamente 48 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "84",
-    "name": "PAO HAMBURGUER 65G PCT 3,5K",
+    "name": "PAO HAMBURGUER 65G PCT 3,5KG",
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
@@ -895,11 +895,11 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de hambúrguer 65g. Pacote com aproximadamente 54 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "85",
-    "name": "ROSCA TIPO HUNGARA 35G PCT 3,5K",
+    "name": "ROSCA TIPO HUNGARA 35G PCT 3,5KG",
     "price": 43.75,
     "category": "Pães e Massas Doces",
     "images": [
@@ -908,7 +908,7 @@ export const PRODUCTS: Product[] = [
     "description": "Rosca húngara 35g. Pacote com aproximadamente 100 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "86",
@@ -925,7 +925,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "87",
-    "name": "PAO PALITO 75GR PCT 3,5K",
+    "name": "PAO PALITO 75GR PCT 3,5KG",
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
@@ -951,7 +951,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "91",
-    "name": "PAO BATATA 50GR PCT 1K",
+    "name": "PAO BATATA 50GR PCT 1KG",
     "price": 13.7,
     "category": "Pães e Massas Doces",
     "images": [
@@ -977,7 +977,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "93",
-    "name": "PAO DE LEITE 50G PCT 1K",
+    "name": "PAO DE LEITE 50G PCT 1KG",
     "price": 10.5,
     "category": "Pães e Massas Doces",
     "images": [
@@ -1029,7 +1029,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "99",
-    "name": "PAO DE MILHO 50GR PCT 3,5K",
+    "name": "PAO DE MILHO 50GR PCT 3,5KG,
     "price": 35.35,
     "category": "Pães e Massas Doces",
     "images": [
@@ -1038,7 +1038,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de milho 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   
   //Salgado Assado G
