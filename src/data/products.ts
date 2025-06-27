@@ -77,7 +77,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de queijo premium congelado, tamanho médio (30g). Pacote com aproximadamente 166 unidades.",
     "packageInfo": "Pacote 5kg",
     "weight": 5.0,
-    "isPackage": true,
+    "isPackage": false,
     // "featured": true // true: Para produto em destaque
   },
   {
@@ -111,7 +111,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de queijo premium congelado, tamanho grande (55g). Pacote com aproximadamente 90 unidades.",
     "packageInfo": "Pacote 5kg",
     "weight": 5.0,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "507442",
@@ -122,7 +122,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de queijo premium congelado, tamanho grande (70g). Pacote com aproximadamente 71 unidades.",
     "packageInfo": "Pacote 5kg",
     "weight": 5.0,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "50657",
@@ -133,7 +133,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de queijo premium congelado, tamanho extra grande (100g). Pacote com aproximadamente 50 unidades.",
     "packageInfo": "Pacote 5kg",
     "weight": 5.0,
-    "isPackage": true
+    "isPackage": false
   },
 
   //GG
@@ -168,7 +168,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de queijo GG congelado, tamanho lanche (55g). Pacote com aproximadamente 90 unidades.",
     "packageInfo": "Pacote 5kg",
     "weight": 5.0,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "50405",
@@ -179,7 +179,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de queijo GG congelado, tamanho grande (100g). Pacote com aproximadamente 50 unidades.",
     "packageInfo": "Pacote 5kg",
     "weight": 5.0,
-    "isPackage": true
+    "isPackage": false
   },
   
   
@@ -921,7 +921,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão amanteigado 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "87",
@@ -934,7 +934,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão palito 75g. Pacote com aproximadamente 47 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "90",
@@ -990,7 +990,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     "id": "96",
-    "name": "ROSCA HUNGARA 70G PCT 3,5 KG",
+    "name": "ROSCA HUNGARA 70G PCT 3,5KG",
     "price": 43.75,
     "category": "Pães e Massas Doces",
     "images": [
@@ -999,11 +999,11 @@ export const PRODUCTS: Product[] = [
     "description": "Rosca húngara 70g. Pacote com aproximadamente 50 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "97",
-    "name": "PAO BATATA 50G PCT 3,5 KG",
+    "name": "PAO BATATA 50G PCT 3,5KG",
     "price": 43.75,
     "category": "Pães e Massas Doces",
     "images": [
@@ -1012,7 +1012,7 @@ export const PRODUCTS: Product[] = [
     "description": "Pão de batata doce 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "98",
@@ -1025,7 +1025,7 @@ export const PRODUCTS: Product[] = [
     "description": "Rosca trançada 50g. Pacote com aproximadamente 70 unidades. Tempo de fermentação 6 horas",
     "packageInfo": "Pacote",
     "weight": 3.5,
-    "isPackage": true
+    "isPackage": false
   },
   {
     "id": "99",
@@ -1318,7 +1318,7 @@ export const PRODUCTS: Product[] = [
     "description": "Biscoito de queijo suiço meia lua (60g). Pacote com aproximadamente 33 unidades.",
     "packageInfo": "Pacote 2kg",
     "weight": 2.0,
-    "isPackage": true
+    "isPackage": false
   },
     {
     "id": "50667",
@@ -1340,7 +1340,7 @@ export const PRODUCTS: Product[] = [
     "description": "Biscoito 4 queijos(60g). Pacote com aproximadamente 33 unidades.",
     "packageInfo": "Pacote 2kg",
     "weight": 2.0,
-    "isPackage": true
+    "isPackage": false
   },
       {
     "id": "50007",

@@ -152,7 +152,7 @@ const Cart: React.FC = () => {
   const sendToWhatsApp = (includeCustomerInfo: boolean = false) => {
     // Generate WhatsApp message with order details
     const cartItemsText = cartItems
-      .map(item => `${item.quantity}x ${item.product.name} (${item.product.packageInfo}) - R$${(item.product.price * item.quantity).toFixed(2)} - Peso total: ${(item.product.weight * item.quantity).toFixed(2)}kg  - ${item.product.id}`)
+      .map(item => `${item.quantity}x ${item.product.name} - ${item.product.isPackage == true ? "PC" : "KG" } - R$${(item.product.price * item.quantity).toFixed(2)} - Peso total: ${(item.product.weight * item.quantity).toFixed(2)}kg  - ${item.product.id}`)
       .join('\n');
 
     const shippingText = selectedCity 
