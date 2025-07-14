@@ -487,7 +487,8 @@ export const PRODUCTS: Product[] = [
     "description": "Churros Doce De Leite Pct 50 Unid congelado, tamanho festa. Pacote com 50 unidades.",
     "packageInfo": "Pacote 50un",
     "weight": 0.85,
-    "isPackage": true
+    "isPackage": true,
+    "inStock": false
   },
   {
     "id": "20014",
@@ -565,7 +566,8 @@ export const PRODUCTS: Product[] = [
     "description": "Churros Doce De Chocolate Pct 50 Unid congelado, tamanho festa. Pacote com 50 unidades.",
     "packageInfo": "Pacote 50un",
     "weight": 0.85,
-    "isPackage": true
+    "isPackage": true,
+    "inStock": false
   },
   {
     "id": "20043",
