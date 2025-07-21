@@ -488,7 +488,6 @@ export const PRODUCTS: Product[] = [
     "packageInfo": "Pacote 50un",
     "weight": 0.85,
     "isPackage": true,
-    "inStock": false
   },
   {
     "id": "20014",
@@ -567,7 +566,6 @@ export const PRODUCTS: Product[] = [
     "packageInfo": "Pacote 50un",
     "weight": 0.85,
     "isPackage": true,
-    "inStock": false
   },
   {
     "id": "20043",
