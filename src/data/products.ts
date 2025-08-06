@@ -784,7 +784,7 @@ export const PRODUCTS: Product[] = [
   {
     "id": "431",
     "name": "PAO FRANCES 06 HORAS 70G PCT 3,5KG",
-    "price": 26.95,
+    "price": 24.85,
     "category": "Pães e Massas Doces",
     "images": [
       "/products/40.jpg"
@@ -797,7 +797,7 @@ export const PRODUCTS: Product[] = [
   {
     "id": "430",
     "name": "PAO FRANCES 12 HORAS 70G PCT 3,5KG",
-    "price": 26.95,
+    "price": 24.85,
     "category": "Pães e Massas Doces",
     "images": [
       "/products/40.jpg"
