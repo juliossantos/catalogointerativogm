@@ -791,7 +791,7 @@ export const PRODUCTS: Product[] = [
     ],
     "description": "Pão francês 06 horas 70g congelado. Pacote com aproximadamente 50 unidades.",
     "packageInfo": "Pacote",
-    "weight": 1,
+    "weight": 3.5,
     "isPackage": true,
     },
   {
@@ -804,7 +804,7 @@ export const PRODUCTS: Product[] = [
     ],
     "description": "Pão francês 06 horas 70g congelado. Pacote com aproximadamente 50 unidades.",
     "packageInfo": "Pacote",
-    "weight": 1,
+    "weight": 3.5,
     "isPackage": true,
     },
  
