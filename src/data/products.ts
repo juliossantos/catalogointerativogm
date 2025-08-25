@@ -1466,10 +1466,10 @@ export const PRODUCTS: Product[] = [
 
   //Recheados Tradicional
 
-    {
+  {
     "id": "50573",
     "name": "PAO DE QUEIJO RECHEADO COM CARNE PCT 1KG",
-    "price": 29,20,
+    "price": 29.20,
     "category": "Pão de Queijo",
     "images": ["/products/rec.jpg"],
     "description": "Pão de queijo recheado com carne. Pacote com aproximadamente 40 unidades.",
@@ -1480,7 +1480,7 @@ export const PRODUCTS: Product[] = [
   {
     "id": "50520",
     "name": "PAO DE QUEIJO RECHEADO COM FRANGO PCT 1KG",
-    "price": 29,20,
+    "price": 29.20,
     "category": "Pão de Queijo",
     "images": ["/products/rec.jpg"],
     "description": "Pão de queijo recheado com frango. Pacote com aproximadamente 40 unidades.",
@@ -1491,7 +1491,7 @@ export const PRODUCTS: Product[] = [
   {
     "id": "50655",
     "name": "PAO DE QUEIJO RECHEADO COM GOIABADA PCT 1K",
-    "price": 29,20,
+    "price": 29.20,
     "category": "Pão de Queijo",
     "images": ["/products/rec.jpg"],
     "description": "Pão de queijo recheado com goiabada. Pacote com aproximadamente 40 unidades.",
@@ -1502,7 +1502,7 @@ export const PRODUCTS: Product[] = [
   {
     "id": "50611",
     "name": "PAO DE QUEIJO RECHEADO COM LINGUICA APIMENTADA PCT 1KG",
-    "price": 29,20,
+    "price": 29.20,
     "category": "Pão de Queijo",
     "images": ["/products/rec.jpg"],
     "description": "Pão de queijo recheado com linguiça apimentada. Pacote com aproximadamente 40 unidades.",
@@ -1510,6 +1510,7 @@ export const PRODUCTS: Product[] = [
     "weight": 1.0,
     "isPackage": true
   },
+
   {
     "id": "3000",
     "name": "ALHO EM CREME COM TRADICIONAL OMG POTE 200G",
