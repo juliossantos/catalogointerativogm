@@ -765,7 +765,6 @@ export const PRODUCTS: Product[] = [
     "packageInfo": "Pacote",
     "weight": 1,
     "isPackage": true,
-    "inStock": false
   },
   {
     "id": "40",
@@ -779,34 +778,33 @@ export const PRODUCTS: Product[] = [
     "packageInfo": "Pacote",
     "weight": 1,
     "isPackage": true,
-    "inStock": false
     },
-  {
-    "id": "431",
-    "name": "PAO FRANCES 06 HORAS 70G PCT 3,5KG",
-    "price": 24.85,
-    "category": "Pães e Massas Doces",
-    "images": [
-      "/products/40.jpg"
-    ],
-    "description": "Pão francês 06 horas 70g congelado. Pacote com aproximadamente 50 unidades.",
-    "packageInfo": "Pacote",
-    "weight": 3.5,
-    "isPackage": true,
-    },
-  {
-    "id": "430",
-    "name": "PAO FRANCES 12 HORAS 70G PCT 3,5KG",
-    "price": 24.85,
-    "category": "Pães e Massas Doces",
-    "images": [
-      "/products/40.jpg"
-    ],
-    "description": "Pão francês 06 horas 70g congelado. Pacote com aproximadamente 50 unidades.",
-    "packageInfo": "Pacote",
-    "weight": 3.5,
-    "isPackage": true,
-    },
+  // {
+  //   "id": "431",
+  //   "name": "PAO FRANCES 06 HORAS 70G PCT 3,5KG",
+  //   "price": 24.85,
+  //   "category": "Pães e Massas Doces",
+  //   "images": [
+  //     "/products/40.jpg"
+  //   ],
+  //   "description": "Pão francês 06 horas 70g congelado. Pacote com aproximadamente 50 unidades.",
+  //   "packageInfo": "Pacote",
+  //   "weight": 3.5,
+  //   "isPackage": true,
+  //   },
+  // {
+  //   "id": "430",
+  //   "name": "PAO FRANCES 12 HORAS 70G PCT 3,5KG",
+  //   "price": 24.85,
+  //   "category": "Pães e Massas Doces",
+  //   "images": [
+  //     "/products/40.jpg"
+  //   ],
+  //   "description": "Pão francês 06 horas 70g congelado. Pacote com aproximadamente 50 unidades.",
+  //   "packageInfo": "Pacote",
+  //   "weight": 3.5,
+  //   "isPackage": true,
+  //   },
  
     // Massa doce
   {
