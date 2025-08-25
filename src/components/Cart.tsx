@@ -117,6 +117,9 @@ const Cart: React.FC = () => {
       });
       return;
     }
+    else{
+      localStorage.removeItem('cart');
+    }
 
     // Show validation errors when the user tries to finalize the order
     setShowValidationErrors(true);
