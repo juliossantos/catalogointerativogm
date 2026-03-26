@@ -471,9 +471,8 @@ const Cart: React.FC = () => {
                 <SelectValue placeholder="Selecione uma forma de pagamento" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="card">Cartão de crédito/débito (maquininha disponível)</SelectItem>
+                <SelectItem value="card">Cartão de crédito/débito (Link de pagamento)</SelectItem>
                 <SelectItem value="pix">Pix</SelectItem>
-                <SelectItem value="cash">Dinheiro</SelectItem>
               </SelectContent>
             </Select>
             
@@ -489,9 +488,8 @@ const Cart: React.FC = () => {
             <p className="font-medium mb-2">💳 Pagamento apenas antecipado.</p>
             <p className="mb-1">Aceitamos:</p>
             <ul className="pl-4 mb-2">
-              <li>• Cartão de crédito/débito (máquina disponível)</li>
+              <li>• Cartão de crédito/débito (Link de pagamento)</li>
               <li>• Pix</li>
-              <li>• Dinheiro</li>
             </ul>
             <p className="text-xs italic text-gray-500">
               (Caso tenha dúvidas, confirme com nosso atendente no WhatsApp)
