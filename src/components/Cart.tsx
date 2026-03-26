@@ -486,7 +486,7 @@ const Cart: React.FC = () => {
           
           {/* Payment Information Box */}
           <div className="bg-gray-50 rounded-lg p-3 mb-4 text-sm">
-            <p className="font-medium mb-2">💳 O pagamento será feito no momento da entrega.</p>
+            <p className="font-medium mb-2">💳 Pagamento apenas antecipado.</p>
             <p className="mb-1">Aceitamos:</p>
             <ul className="pl-4 mb-2">
               <li>• Cartão de crédito/débito (máquina disponível)</li>
